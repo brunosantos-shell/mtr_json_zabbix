@@ -240,3 +240,6 @@ Example Use MTR
   ]
 }
 ```
+![](img/create_host_host.PNG)
+![](img/create_host_template.PNG)
+![](img/create_host_macro.PNG)
