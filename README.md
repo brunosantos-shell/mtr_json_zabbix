@@ -247,3 +247,8 @@ Configure Template 	MTR - Hop
 
 Configure macro CDN destination
 ![](img/create_host_macro.PNG)
+
+Latest Data Zabbix MTR - Hop
+![](img/mtr_latestdata.PNG)
+
+Questions or Improvements, send email to brunosantostecinf@gmail.com
